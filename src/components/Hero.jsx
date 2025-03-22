@@ -32,9 +32,7 @@ const Hero = () => {
 
     useEffect(() => {
         if (loadedVideos === totalVideos - 1) {
-            setTimeout(() => {
-                setIsLoading(false);
-            }, 500);
+            setIsLoading(false);
         }
     }, [loadedVideos]);
 

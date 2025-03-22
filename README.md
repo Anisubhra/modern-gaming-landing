@@ -1,13 +1,52 @@
-# React + Vite
+# 🎮 Modern Gaming Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Preview
 
-Currently, two official plugins are available:
+![Website Preview](./public//preview.jpeg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Live Demo
 
-## Expanding the ESLint configuration
+Check out the live demo here: [Live Demo](https://modern-gaming-website.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# modern-gaming-landing
+---
+
+## 🚀 Tech Stack
+
+- **Vite** - Fast build tool
+- **Tailwind CSS** - Utility-first CSS framework
+- **GSAP** - For smooth animations
+
+## 📁 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Anisubhra/modern-gaming-website.git
+
+# Navigate to the project directory
+cd modern-gaming-website
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 📌 Features
+
+- ⚡ **Blazing fast** performance with Vite
+- 🎯 **Responsive design** using Tailwind CSS
+- 🕹️ **Smooth animations** powered by GSAP
+- 🛠️ **Modern UI** inspired by gaming aesthetics
+
+## 📬 Contact
+
+Have questions or suggestions? Feel free to reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/anisubhrasarkar/)
+- [GitHub](https://github.com/Anisubhra)
+- [Twitter](https://x.com/anisubhrasarkar)
+
+---
+
+⭐ **Drop a star if you liked this project!**
